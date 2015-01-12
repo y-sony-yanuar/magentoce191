@@ -1,7 +1,7 @@
 <?php
 /**
  * Magento
- *
+ * 
  * NOTICE OF LICENSE
  *
  * This source file is subject to the Open Software License (OSL 3.0)
@@ -33,7 +33,7 @@ Whoops, it looks like you have an invalid PHP version.</h3></div><p>Magento supp
  Magento using PHP-CGI as a work-around.</p></div>';
     exit;
 }
-
+// test perubahan
 /**
  * Error reporting
  */
